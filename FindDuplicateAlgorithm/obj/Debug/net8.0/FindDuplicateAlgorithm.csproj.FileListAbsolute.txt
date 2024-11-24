@@ -1,0 +1,14 @@
+C:\Users\Juliet\Documents\FindDuplicateApp\FindDuplicateAlgorithmSln\FindDuplicateAlgorithm\bin\Debug\net8.0\FindDuplicateAlgorithm.exe
+C:\Users\Juliet\Documents\FindDuplicateApp\FindDuplicateAlgorithmSln\FindDuplicateAlgorithm\bin\Debug\net8.0\FindDuplicateAlgorithm.deps.json
+C:\Users\Juliet\Documents\FindDuplicateApp\FindDuplicateAlgorithmSln\FindDuplicateAlgorithm\bin\Debug\net8.0\FindDuplicateAlgorithm.runtimeconfig.json
+C:\Users\Juliet\Documents\FindDuplicateApp\FindDuplicateAlgorithmSln\FindDuplicateAlgorithm\bin\Debug\net8.0\FindDuplicateAlgorithm.dll
+C:\Users\Juliet\Documents\FindDuplicateApp\FindDuplicateAlgorithmSln\FindDuplicateAlgorithm\bin\Debug\net8.0\FindDuplicateAlgorithm.pdb
+C:\Users\Juliet\Documents\FindDuplicateApp\FindDuplicateAlgorithmSln\FindDuplicateAlgorithm\obj\Debug\net8.0\FindDuplicateAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliet\Documents\FindDuplicateApp\FindDuplicateAlgorithmSln\FindDuplicateAlgorithm\obj\Debug\net8.0\FindDuplicateAlgorithm.AssemblyInfoInputs.cache
+C:\Users\Juliet\Documents\FindDuplicateApp\FindDuplicateAlgorithmSln\FindDuplicateAlgorithm\obj\Debug\net8.0\FindDuplicateAlgorithm.AssemblyInfo.cs
+C:\Users\Juliet\Documents\FindDuplicateApp\FindDuplicateAlgorithmSln\FindDuplicateAlgorithm\obj\Debug\net8.0\FindDuplicateAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Juliet\Documents\FindDuplicateApp\FindDuplicateAlgorithmSln\FindDuplicateAlgorithm\obj\Debug\net8.0\FindDuplicateAlgorithm.dll
+C:\Users\Juliet\Documents\FindDuplicateApp\FindDuplicateAlgorithmSln\FindDuplicateAlgorithm\obj\Debug\net8.0\refint\FindDuplicateAlgorithm.dll
+C:\Users\Juliet\Documents\FindDuplicateApp\FindDuplicateAlgorithmSln\FindDuplicateAlgorithm\obj\Debug\net8.0\FindDuplicateAlgorithm.pdb
+C:\Users\Juliet\Documents\FindDuplicateApp\FindDuplicateAlgorithmSln\FindDuplicateAlgorithm\obj\Debug\net8.0\FindDuplicateAlgorithm.genruntimeconfig.cache
+C:\Users\Juliet\Documents\FindDuplicateApp\FindDuplicateAlgorithmSln\FindDuplicateAlgorithm\obj\Debug\net8.0\ref\FindDuplicateAlgorithm.dll
